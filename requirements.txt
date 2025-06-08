@@ -1,2 +1,5 @@
 telethon
-yt-dlpfmpeg-python
+yt-dlp
+ffmpeg-python
+
+
